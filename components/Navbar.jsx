@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Cart from './Cart';
 
 const Navbar = () => {
+	
 	return (
 		<header className='flex justify-between p-6'>
 			<nav className='flex gap-6'>
